@@ -1,5 +1,7 @@
 # garcom-digital-pwa
 
+Status: Em desenvolvimento
+
 # Garçom Digital - PWA
 
 Sistema web desenvolvido para auxiliar o atendimento em
